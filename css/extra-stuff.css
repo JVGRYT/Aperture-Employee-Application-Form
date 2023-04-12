@@ -3,6 +3,6 @@
   src: url('/fonts/ethnocentric rg.otf') format('otf');
 }
 body {
-  background-image: url("bg.png"),
-  background-size: cover
+  background-image: url("bg.jpg"),
+  background-size: cover;
 }
