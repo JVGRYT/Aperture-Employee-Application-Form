@@ -3,3 +3,6 @@
   src: url('/fonts/ethnocentric_rg.woff2') format('woff2'),
        url('/fonts/ethnocentric_rg.woff') format('woff');
 }
+body {
+  font-family: 'ethnocentric_rg'
+}
