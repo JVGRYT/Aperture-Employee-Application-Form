@@ -2,3 +2,7 @@
   font-family: 'ethnocentric rg';
   src: url('/fonts/ethnocentric rg.otf') format('otf');
 }
+body {
+  background-image: url("bg.png"),
+  background-size: cover
+}
